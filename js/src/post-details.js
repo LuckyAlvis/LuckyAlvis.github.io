@@ -30,7 +30,6 @@ $(document).ready(function () {
   }
 
 });
-
 $(document).ready(function () {
   var html = $('html');
   var TAB_ANIMATE_DURATION = 200;
